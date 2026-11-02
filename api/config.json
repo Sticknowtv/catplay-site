@@ -25,5 +25,12 @@
       "url": "http://unionhiper.xyz",
       "icone": "/logo/99b82bfe6439.png?v=1793580748835"
     }
-  ]
+  ],
+  "atualizacao": {
+    "versionCode": 88,
+    "versionName": "1.88",
+    "notas": "",
+    "obrigatoria": true,
+    "url": "https://github.com/Sticknowtv/meu-stream/releases/download/v88/CatPlay.apk"
+  }
 }
