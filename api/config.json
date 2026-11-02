@@ -27,10 +27,10 @@
     }
   ],
   "atualizacao": {
-    "versionCode": 50,
-    "versionName": "1.50",
+    "versionCode": 53,
+    "versionName": "1.53",
     "notas": "",
     "obrigatoria": true,
-    "url": "https://github.com/wenderrpip-bit/catplay-site/releases/download/v48/CatPlay.apk"
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/latest/download/CatPlay.apk"
   }
 }
