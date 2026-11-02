@@ -27,9 +27,9 @@
     }
   ],
   "atualizacao": {
-    "versionCode": 75,
-    "versionName": "1.75",
-    "notas": "Otimizaçao e melhorias de desempenho",
+    "versionCode": 77,
+    "versionName": "1.77",
+    "notas": "continuar automatico series",
     "obrigatoria": true,
     "url": "https://github.com/Sticknowtv/catplay-site/releases/latest/download/CatPlay.apk"
   }
