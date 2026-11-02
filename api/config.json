@@ -34,10 +34,10 @@
     "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v100/CatPlay.apk"
   },
   "atualizacaoLite": {
-    "versionCode": 7,
-    "versionName": "1.7",
-    "notas": "mais leve na mxq",
+    "versionCode": 8,
+    "versionName": "1.8",
+    "notas": "melhorias de layout",
     "obrigatoria": true,
-    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v7/CatPlayLite-v7.apk"
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v8/CatPlayLite-v8.apk"
   }
 }
