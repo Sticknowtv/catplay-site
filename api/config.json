@@ -1,0 +1,29 @@
+{
+  "versao": 1,
+  "tema": {
+    "fundo": "#0B1A2B",
+    "cartao": "#14283D",
+    "destaque": "#378ADD",
+    "texto": "#F1F6FB"
+  },
+  "servidores": [
+    {
+      "id": "731a43575a17",
+      "nome": "NOW",
+      "url": "http://t.smts.top:8880",
+      "icone": ""
+    },
+    {
+      "id": "3c05c8a98280",
+      "nome": "UNION",
+      "url": "http://ultraclaro.store",
+      "icone": ""
+    },
+    {
+      "id": "99b82bfe6439",
+      "nome": "Hyper",
+      "url": "http://unionhiper.xyz",
+      "icone": "/logo/99b82bfe6439.png?v=1793580748835"
+    }
+  ]
+}
