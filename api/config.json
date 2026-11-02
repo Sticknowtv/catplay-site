@@ -32,5 +32,12 @@
     "notas": "",
     "obrigatoria": true,
     "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v100/CatPlay.apk"
+  },
+  "atualizacaoLite": {
+    "versionCode": 7,
+    "versionName": "1.7",
+    "notas": "mais leve na mxq",
+    "obrigatoria": true,
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v7/CatPlayLite-v7.apk"
   }
 }
