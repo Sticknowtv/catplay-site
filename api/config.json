@@ -25,5 +25,12 @@
       "url": "http://unionhiper.xyz",
       "icone": "/logo/99b82bfe6439.png?v=1793580748835"
     }
-  ]
+  ],
+  "atualizacao": {
+    "versionCode": 48,
+    "versionName": "1.48",
+    "notas": "Correção de sistema online",
+    "obrigatoria": true,
+    "url": "https://github.com/wenderrpip-bit/catplay-site/releases/download/v48/CatPlay-v48.apk"
+  }
 }
