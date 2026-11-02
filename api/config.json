@@ -27,10 +27,10 @@
     }
   ],
   "atualizacao": {
-    "versionCode": 94,
-    "versionName": "1.94",
+    "versionCode": 100,
+    "versionName": "1.100",
     "notas": "",
     "obrigatoria": true,
-    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v94/CatPlay.apk"
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v100/CatPlay.apk"
   }
 }
