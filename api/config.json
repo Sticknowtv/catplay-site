@@ -29,8 +29,8 @@
   "atualizacao": {
     "versionCode": 48,
     "versionName": "1.48",
-    "notas": "Correção de sistema online",
+    "notas": "correçao 1",
     "obrigatoria": true,
-    "url": "https://github.com/wenderrpip-bit/catplay-site/releases/download/v48/CatPlay-v48.apk"
+    "url": "https://wenderrpip-bit.github.io/catplay-site/api/config.json"
   }
 }
