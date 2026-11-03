@@ -34,10 +34,10 @@
     "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v100/CatPlay.apk"
   },
   "atualizacaoLite": {
-    "versionCode": 8,
-    "versionName": "1.8",
+    "versionCode": 9,
+    "versionName": "1.9",
     "notas": "melhorias de layout",
     "obrigatoria": true,
-    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v8/CatPlayLite-v8.apk"
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v9/CatPlayLite-v9.apk"
   }
 }
