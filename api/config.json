@@ -26,18 +26,11 @@
       "icone": "/logo/99b82bfe6439.png?v=1793580748835"
     }
   ],
-  "atualizacao": {
-    "versionCode": 100,
-    "versionName": "1.100",
-    "notas": "",
-    "obrigatoria": true,
-    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/v100/CatPlay.apk"
-  },
   "atualizacaoLite": {
-    "versionCode": 14,
-    "versionName": "1.14",
-    "notas": "correcao de bugs.",
+    "versionCode": 16,
+    "versionName": "1.16",
+    "notas": "correçao de bug ao abrir filmes 4k",
     "obrigatoria": true,
-    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-v9/CatPlayLite.apk"
+    "url": "https://github.com/Sticknowtv/catplay-site/releases/download/lite-final/CatPlayLite.apk"
   }
 }
